@@ -1,8 +1,8 @@
 {
   "name": "typo3fluid-snippets",
-  "displayName": "TYPO3 Fluid Snippets",
+  "displayName": "TYPO3 Fluid Snippets Extension",
   "description": "TYPO3 Fluid Snippets for VSCode/VSCodium",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "pagea-dev",
   "icon": "images/icon.png",
   "license": "MIT",
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/pagea-dev/typo3-fluid-snippets"
+    "url": "https://github.com/pagea-dev/typo3fluid-snippets"
   },
   "engines": {
     "vscode": "^1.90.0"

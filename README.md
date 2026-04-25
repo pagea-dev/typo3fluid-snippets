@@ -1,7 +1,8 @@
-# TYPO3 Fluid Snippets
+# TYPO3 Fluid Snippets Extension
 
 Fluid Snippets provider for [TYPO3 Fluid](https://docs.typo3.org/other/typo3fluid/fluid/main/en-us/) ViewHelpers in VSCode and VSCodium.<br>
-This Extension is still work in progress - if you want to provide your own templates, [create a Pull Request via GitHub](https://github.com/pagea-dev/typo3-fluid-snippets/pulls)<br>
+If you want to provide your own templates, [create a Pull Request via GitHub](https://github.com/pagea-dev/typo3-fluid-snippets/pulls)<br>
+If you want have problems or ideas, [write an Issue via GitHub](https://github.com/pagea-dev/typo3fluid-snippets/issues)<br>
 You can find the source code on [GitHub](https://github.com/pagea-dev/typo3-fluid-snippets)
 
 ## Features
