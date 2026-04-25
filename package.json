@@ -4,6 +4,15 @@
   "description": "TYPO3 Fluid Snippets for VSCode/VSCodium",
   "version": "1.0.0",
   "publisher": "pagea-dev",
+  "icon": "images/icon.png",
+  "license": "MIT",
+  "keywords": [
+    "typo3",
+    "fluid",
+    "snippets",
+    "viewhelper",
+    "html"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/pagea-dev/typo3-fluid-snippets"
