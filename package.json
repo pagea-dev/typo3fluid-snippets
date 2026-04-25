@@ -1,0 +1,20 @@
+{
+  "name": "typo3-fluid-snippets",
+  "displayName": "typo3-fluid-snippets",
+  "description": "TYPO3 Fluid Snippets for VSCode/VSCodium",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.116.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "'html', 'fluid.html'",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
