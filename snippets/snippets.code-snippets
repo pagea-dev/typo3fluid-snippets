@@ -651,12 +651,12 @@
     ],
     "description": "TYPO3 Fluid | <f:spaceless>"
   },
-  "f:security.ifAuthenticated": {
+  "f:be.security.ifAuthenticated": {
     "prefix": ["fSecurityIfAuthenticated", "FDA"],
     "body": [
-      "<f:security.ifAuthenticated>",
-      "\t<f:debug inline=\"0\">$1</f:debug>",
-      "</f:security.ifAuthenticated>"
+      "<f:be.security.ifAuthenticated>",
+      "\t<f:debug inline=\"0\">{${1:_all}}</f:debug>",
+      "</f:be.security.ifAuthenticated>"
     ],
     "description": "TYPO3 Fluid | <f:security.ifAuthenticated>"
   },
